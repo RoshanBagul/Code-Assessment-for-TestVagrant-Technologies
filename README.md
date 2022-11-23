@@ -3,59 +3,41 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✋👉 Summary:
 
-* This webpage is actual clone of Eminent OTT website Netflix, this represent the frontend buliding part of Website.
-* This is the level 2 project of Newton School Course.
-* Through this building Webpage I tried to make worth command on HTML and CSS coding.
-* All the Asset content require to build project is provided by Newton School Team.
-* Overall this is my Fourth Project in during Newton school tenure.
+* Through this coding I tried to make worth command on Java coding.
+* The Asset content require to build Code is provided by TestVagrant.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🎯 Objectives:
 
-* Build and run a Netflix clone.
-* Learn **Image inserting , buttons at top and bottom** in well Exhibition Structure manner.
-* Learn about **paging** and **Entire page design** during project.
-* Leverage Vercel for hosting.
-* Deploy the Netflix clone to production with Netlify.
-* Much Support High Resoluton textures of webpages.
+* Build and Read Json file.
+* Json file is directly been loacted and read within the framework
 * Should Support Each and Every platforms.
+* Can be Executed within the local IDE.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🦄 Challenges:
 
-* Making Actual Gap between Logo image and Sign up and languages button on page.
-* Decidation of clear opacity and transforms of special effects (Pop-up while cursor on) to the Webpage.
-* The big Task is to build this Webpage without JavaScript code.
-* To Building Special allocted sections of each category Stream.
-* Most Difficult challenge is to put dyanamic video in TV & moniter form for Actual representation.
-* Languages Changing Bar / Sign In button (Using UI/UX).
+* To Fetch the Data from Json file by using Java Programming Language.
+* Most Difficult challenge is to fetch the Json Format without Rest-Assured.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #👩‍💻 Technical Code uses:
 
-* HTML (Hyper text markup language)
-* CSS  (Cascading Styling Sheet)
+* Java Programming Language.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#🔗 Code Result Output-
+#🔗 Code Result Output:
 
 ![output](https://user-images.githubusercontent.com/116249218/203481130-2cc2269d-3f87-493d-808e-c13838b95229.PNG)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#👀 To Look More Different and Creative: 
-
-* To build different and more creative webpage, I try to used more Transitions and indexes i.e.Pop-up scale while Scroling on page-Feels special and Optimum effect.
-* It's fetch the customer attraction more and feel more cool.
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 #🙂 Conclusion:
 
-* One More project added in Profile having boost codes will add much more knowledge and Skills personally.
-* Great Experiance gains and got much more idea and tricks to makes creative Webpage.
+* All Require Test cases has been passed certainly.
+* Output Renders 1 wicket Keeper and 4 Foreign Players has been Validated.
 * Completion within time limit brings out great habitual.
 
  
