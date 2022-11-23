@@ -9,9 +9,9 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 public class ReadJson {
-    public static String Wicketkeeper;
+    public static String wicketkeeper;
     public static String foreignPlayers;
-    public static String IndianPlayers;
+    public static String indianPlayers;
    public static void validateTest () throws IOException, ParseException {
        JSONParser jsonParser = new JSONParser(); // to Parse Json data form Json File
 
@@ -35,8 +35,8 @@ public class ReadJson {
            JSONObject address = (JSONObject) array.get(i);
            if (array.get(i).toString().contains("Wicket-keeper"))  // To found the count of Wicket-keeper
            {
-               Wicketkeeper = address.get("name").toString();
-               System.out.println("one Wicket-keeper name is = " + Wicketkeeper);
+               wicketkeeper = address.get("name").toString();
+               System.out.println("one Wicket-keeper name is = " + wicketkeeper);
            }
        }
        System.out.println("****************************");
@@ -51,7 +51,7 @@ public class ReadJson {
 
            if (array.get(i).toString().contains("India"))
            {
-               IndianPlayers = address.get("name").toString(); //fetch the name of Foreign Players
+               indianPlayers = address.get("name").toString(); //fetch the name of Foreign Players
               // System.out.println("Indian players are = "+ IndianPlayers );
            }
            else
