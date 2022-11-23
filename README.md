@@ -1,12 +1,4 @@
-# Code-Assessment-for-TestVagrant-Technologies
-This repo includes code assessment for TestVagrant  
-
-
-
-
-# 🎓 Builded Netflix Clone Webpage.
-
-
+# 🎓 Code-Assessment-for-TestVagrant-Technologies
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ✋👉 Summary:
@@ -47,7 +39,9 @@ This repo includes code assessment for TestVagrant
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#🔗 Project Host Link : https://abc-abc-n84i.vercel.app/
+#🔗 Code Result Output-
+
+![output](https://user-images.githubusercontent.com/116249218/203481130-2cc2269d-3f87-493d-808e-c13838b95229.PNG)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
